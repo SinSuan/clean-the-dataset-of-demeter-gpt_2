@@ -1,0 +1,4 @@
+.env
+/data/agriculture.json
+/data/agriculture.json.example
+test.py
